@@ -4603,6 +4603,7 @@ a[target=_blank] .clickableContent::after {
 }
 ._e572b260_FeaturedRichTextBlock_cta {
   margin-top: var(--spacer-24);
+  width: fit-content;
 }
 
 /* temp_stylePlugin:client/components/AlignedHeroBlock/index.module.scss */
