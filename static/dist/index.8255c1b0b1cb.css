@@ -1560,9 +1560,9 @@ a[target=_blank] .clickableContent::after {
 }
 :root {
   --green-base:
-    175,
-    240,
-    5;
+    37,
+    150,
+    190;
   --green: rgb(var(--green-base));
   --black-base:
     0,
